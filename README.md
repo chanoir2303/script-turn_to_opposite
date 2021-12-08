@@ -5,4 +5,4 @@
 - Input an integer (positive or negative)
 
 ## What does it output?
-This script output the integer with its opposite sign
+This script output integer from the input with its opposite sign
